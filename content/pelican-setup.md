@@ -1,6 +1,7 @@
 Title: Getting Pelican set-up
 Date: 2020-05-24 11:25
 Category: howto
+Status: draft
 
 Getting pelican setup, but read down to the virtualenv section first
 
