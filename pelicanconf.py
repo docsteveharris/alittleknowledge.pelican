@@ -36,6 +36,11 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
+THEME = 'themes/TuftePelican'
+
+PLUGIN_PATHS = ['plugins']
+PLUGINS = ['render_math']
+
 # Markdown extensions
 MARKDOWN = {
     'extension_configs': {

@@ -1,4 +1,12 @@
+# html
+output/*
+
+# symbolic links to plugins and themes
+themes
+plugins
+
 # Python temporary files
 __pycache__
+
 # vim backups
 *~
